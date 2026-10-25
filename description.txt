@@ -1,0 +1,1 @@
+Three Home Assistant dashboard themes with alpine, botanical, and moonlit studio gradient backgrounds and light/dark palettes.
